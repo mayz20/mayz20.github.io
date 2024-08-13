@@ -1,10 +1,8 @@
 ## Education
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Ph.D. in Software Engineering, 2024-2029 (expected)  
-    School of Software, Tsinghua University</autocolor></li></ul>
+  <li><autocolor>Ph.D. in Software Engineering, 2024-2029 (expected)<br /><a href="https://www.thss.tsinghua.edu.cn">School of Software</a>, <a href="https://www.tsinghua.edu.cn">Tsinghua University</autocolor></a></li></ul>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Bachelor in Pure and Applied Mathematics, 2020-2024  
-    Department of Mathematical Sciences, Tsinghua University
+  <li><autocolor>Bachelor in Pure and Applied Mathematics, 2020-2024<br /><a href="https://math.tsinghua.edu.cn">Department of Mathematical Sciences</a>, <a href="https://www.tsinghua.edu.cn">Tsinghua University</autocolor></a>
   </autocolor></li></ul>
