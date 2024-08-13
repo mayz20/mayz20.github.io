@@ -1,18 +1,9 @@
 ## Honors & Awards
 
-<h4 style="margin:0 10px 0;">Reviewer</h4>
-
 <ul style="margin:0 0 5px;">
-  <li><autocolor>NeurIPS 2024</autocolor></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Teaching Assistant</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><autocolor>Machine Learning, Spring 2024. Instructor: Prof. <a href="http://ise.thss.tsinghua.edu.cn/~mlong/">Mingsheng Long</a></autocolor></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Service</h4>
-<ul style="margin:0 0 20px;">
-  <li><autocolor>Chairman of the 36th Student Union of Department of Mathematical Sciences, 2023.</autocolor></li>
+  <li><autocolor>Outstanding Graduates of Tsinghua (清华大学优秀毕业生, Top 2%), 2024</autocolor></li>
+  <li><autocolor>Outstanding Graduates of Beijing (北京市优秀毕业生, Top 5%), 2024</autocolor></li>
+  <li><autocolor>Outstanding Student of Beijing (北京市三好学生, Top 5%), 2024</autocolor></li>
+  <li><autocolor>Comprehensive Excellence Award of Tsinghua (清华大学综合优秀奖), 2021, 2022, 2023</autocolor></li>
+  <li><autocolor>Outstanding Student Leader of Tsinghua (清华大学优秀学生干部) 2023</autocolor></li>
 </ul>
