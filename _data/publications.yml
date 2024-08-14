@@ -1,6 +1,6 @@
 main:
 
-  - title: HelmFluid: Learning Helmholtz Dynamics for Interpretable Fluid Prediction
+  - title: "HelmFluid: Learning Helmholtz Dynamics for Interpretable Fluid Prediction"
     authors: Lanxiang Xing\*, Haixu Wu\*, <strong>Yuezhou Ma</strong>, Jianmin Wang, Mingsheng Long#
     conference_short: MICCAI
     conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
