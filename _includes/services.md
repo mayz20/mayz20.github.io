@@ -14,5 +14,5 @@
 
 <h4 style="margin:0 10px 0;">Service</h4>
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Chairman of the 36th Student Union of Department of Mathematical Sciences, 2023.</autocolor></li>
+  <li><autocolor>Chairman of the 36th Student Union of Department of Mathematical Sciences, 2023</autocolor></li>
 </ul>
