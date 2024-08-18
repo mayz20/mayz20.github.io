@@ -9,6 +9,7 @@
 <h4 style="margin:0 10px 0;">Teaching Assistant</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor>Deep Learning, Autumn 2024. Instructor: Prof. <a href="http://ise.thss.tsinghua.edu.cn/~mlong/">Mingsheng Long</a></autocolor></li>
   <li><autocolor>Machine Learning, Spring 2024. Instructor: Prof. <a href="http://ise.thss.tsinghua.edu.cn/~mlong/">Mingsheng Long</a></autocolor></li>
 </ul>
 
