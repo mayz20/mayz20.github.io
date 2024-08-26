@@ -1,13 +1,13 @@
 main:
   - title: "Unisolver: PDE-Conditional Transformers Are Universal PDE Solvers"
-    authors: Hang Zhou*, Yuezhou Ma*, Haixu Wu#, Haowen Wang, Mingsheng Long#
+    authors: Hang Zhou*, <strong>Yuezhou Ma</strong>*, Haixu Wu#, Haowen Wang, Mingsheng Long#
     conference_short: Arxiv
     conference: Arxiv, 2024.
     pdf: https://arxiv.org/abs/2405.17527
     image: ./assets/img/Helmfluid.png
     
   - title: "RoPINN: Region Optimized Physics-Informed Neural Networks"
-    authors: Haixu Wu, Huakun Luo, Yuezhou Ma, Jianmin Wang, Mingsheng Long#
+    authors: Haixu Wu, Huakun Luo, <strong>Yuezhou Ma</strong>, Jianmin Wang, Mingsheng Long#
     conference_short: Arxiv
     conference: Arxiv, 2024.
     pdf: https://arxiv.org/abs/2405.14369
