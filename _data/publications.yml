@@ -8,8 +8,8 @@ main:
     
   - title: "RoPINN: Region Optimized Physics-Informed Neural Networks"
     authors: Haixu Wu, Huakun Luo, <strong>Yuezhou Ma</strong>, Jianmin Wang, Mingsheng Long#
-    conference_short: Arxiv
-    conference: Arxiv, 2024.
+    conference_short: NeurIPS
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/abs/2405.14369
     image: ./assets/img/ropinn.png
 
