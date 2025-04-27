@@ -4,18 +4,18 @@ main:
     conference_short: Arxiv
     conference: Arxiv, 2024.
     pdf: https://arxiv.org/abs/2405.17527
-    image: ./assets/img/unisolver.png
+    # image: ./assets/img/unisolver.png
     
   - title: "RoPINN: Region Optimized Physics-Informed Neural Networks"
     authors: Haixu Wu, Huakun Luo, <strong>Yuezhou Ma</strong>, Jianmin Wang, Mingsheng Long#
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
     pdf: https://arxiv.org/abs/2405.14369
-    image: ./assets/img/ropinn.png
+    # image: ./assets/img/ropinn.png
 
   - title: "HelmFluid: Learning Helmholtz Dynamics for Interpretable Fluid Prediction"
     authors: Lanxiang Xing*, Haixu Wu*, <strong>Yuezhou Ma</strong>, Jianmin Wang, Mingsheng Long#
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2310.10565
-    image: ./assets/img/Helmfluid.png
+    # image: ./assets/img/Helmfluid.png
