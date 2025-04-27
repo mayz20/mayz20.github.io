@@ -5,5 +5,7 @@
   </a></autocolor></li>
   <li><autocolor>Bachelor in Pure and Applied Mathematics, 2020-2024<br /><a href="https://math.tsinghua.edu.cn">Department of Mathematical Sciences</a>, <a href="https://www.tsinghua.edu.cn">Tsinghua University
   </a>
-  </autocolor></li>
+  </autocolor>
+  <br />GPA: 3.90/4.0, Rank: 2/61
+  </li>
 </ul>
