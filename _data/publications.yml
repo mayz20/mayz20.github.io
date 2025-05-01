@@ -1,8 +1,8 @@
 main:
   - title: "Unisolver: PDE-Conditional Transformers Are Universal PDE Solvers"
     authors: Hang Zhou*, <strong>Yuezhou Ma</strong>*, Haixu Wu#, Haowen Wang, Mingsheng Long#
-    conference_short: Arxiv
-    conference: Arxiv, 2024.
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
     pdf: https://arxiv.org/abs/2405.17527
     image: ./assets/img/unisolver.png
     
