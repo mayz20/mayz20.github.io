@@ -1,4 +1,11 @@
 main:
+  - title: "ProPINN: Demystifying Propagation Failures in Physics-Informed Neural Networks"
+    authors: Haixu Wu, Yuezhou Ma, Hang Zhou, Huikun Weng, Jianmin Wang, Mingsheng Long#
+    conference_short: Arxiv
+    conference: Arxiv, 2025.
+    pdf: https://arxiv.org/pdf/2502.00803
+    image: ./assets/img/propinn.png
+    
   - title: "Unisolver: PDE-Conditional Transformers Are Universal PDE Solvers"
     authors: Hang Zhou*, <strong>Yuezhou Ma</strong>*, Haixu Wu#, Haowen Wang, Mingsheng Long#
     conference_short: ICML
