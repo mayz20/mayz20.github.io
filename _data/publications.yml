@@ -1,4 +1,11 @@
 main:
+  - title: "PhySense: Sensor Placement Optimization for Accurate Physics Sensing"
+    authors: <strong>Yuezhou Ma</strong>, Haixu Wu, Hang Zhou, Huikun Weng, Jianmin Wang, Mingsheng Long#
+    conference_short: Arxiv
+    conference: Arxiv, 2025.
+    pdf: https://arxiv.org/abs/2505.18190
+    image: ./assets/img/physense.png
+    
   - title: "ProPINN: Demystifying Propagation Failures in Physics-Informed Neural Networks"
     authors: Haixu Wu, <strong>Yuezhou Ma</strong>, Hang Zhou, Huikun Weng, Jianmin Wang, Mingsheng Long#
     conference_short: Arxiv
