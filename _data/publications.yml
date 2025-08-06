@@ -5,6 +5,13 @@ main:
     conference: Arxiv, 2025.
     pdf: https://arxiv.org/abs/2505.18190
     image: ./assets/img/physense.png
+
+  - title: "FlashBias: Fast Computation of Attention with Bias"
+    authors: Haixu Wu, Minghao Guo, <strong>Yuezhou Ma</strong>, Yuanxu Sun, Jianmin Wang, Wojciech Matusik, Mingsheng Long#
+    conference_short: Arxiv
+    conference: Arxiv, 2025.
+    pdf: https://arxiv.org/pdf/2505.12044
+    image: ./assets/img/Flashbias.png
     
   - title: "ProPINN: Demystifying Propagation Failures in Physics-Informed Neural Networks"
     authors: Haixu Wu, <strong>Yuezhou Ma</strong>, Hang Zhou, Huikun Weng, Jianmin Wang, Mingsheng Long#
