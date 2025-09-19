@@ -2,7 +2,7 @@ main:
   - title: "PhySense: Sensor Placement Optimization for Accurate Physics Sensing"
     authors: <strong>Yuezhou Ma</strong>, Haixu Wu, Hang Zhou, Huikun Weng, Jianmin Wang, Mingsheng Long#
     conference_short: Arxiv
-    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025 (<strong>Oral Paper(</strong>).
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025 <strong>Oral Paper</strong>.
     pdf: https://arxiv.org/abs/2505.18190
     image: ./assets/img/physense.png
 
