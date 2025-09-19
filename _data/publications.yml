@@ -2,14 +2,14 @@ main:
   - title: "PhySense: Sensor Placement Optimization for Accurate Physics Sensing"
     authors: <strong>Yuezhou Ma</strong>, Haixu Wu, Hang Zhou, Huikun Weng, Jianmin Wang, Mingsheng Long#
     conference_short: Arxiv
-    conference: Arxiv, 2025.
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025 (<strong>Oral Paper(</strong>).
     pdf: https://arxiv.org/abs/2505.18190
     image: ./assets/img/physense.png
 
   - title: "FlashBias: Fast Computation of Attention with Bias"
     authors: Haixu Wu, Minghao Guo, <strong>Yuezhou Ma</strong>, Yuanxu Sun, Jianmin Wang, Wojciech Matusik, Mingsheng Long#
     conference_short: Arxiv
-    conference: Arxiv, 2025.
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2505.12044
     image: ./assets/img/Flashbias.png
     
