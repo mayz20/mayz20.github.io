@@ -1,37 +1,30 @@
-<h2 id="publications">Publications &amp; Preprints</h2>
+<h2 id="publications" style="margin: 2px 0px 4px;">Publications &amp; Preprints</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
 
-<li class="publication-item">
+<li>
 <div class="pub-content">
-  <div class="pub-heading">
-    {% if link.conference_short %}
-    <abbr class="badge">{{ link.conference_short }}</abbr>
-    {% endif %}
-    <div class="title"><a href="{{ link.pdf }}" target="_blank" rel="noopener">{{ link.title }}</a></div>
-  </div>
+  <div class="title"><a href="{{ link.pdf }}" target="_blank" rel="noopener">{{ link.title }}</a></div>
   <div class="author">{{ link.authors }}</div>
-  <div class="publication-meta">
-    <span class="periodical">{{ link.conference }}</span>
-    <span class="links">
+  <div class="periodical"><em>{{ link.conference }}</em></div>
+  <div class="links">
     {% if link.pdf %}
-    <a href="{{ link.pdf }}" target="_blank" rel="noopener">PDF</a>
+    <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">PDF</a>
     {% endif %}
     {% if link.code %}
-    <a href="{{ link.code }}" target="_blank" rel="noopener">Code</a>
+    <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">Code</a>
     {% endif %}
     {% if link.page %}
-    <a href="{{ link.page }}" target="_blank" rel="noopener">Project Page</a>
+    <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">Project Page</a>
     {% endif %}
     {% if link.bibtex %}
-    <a href="{{ link.bibtex }}" target="_blank" rel="noopener">BibTeX</a>
+    <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">BibTeX</a>
     {% endif %}
-    </span>
     {% if link.notes %}
-    <strong class="publication-note">{{ link.notes }}</strong>
+    <strong><i class="publication-note">{{ link.notes }}</i></strong>
     {% endif %}
     {% if link.others %}
     {{ link.others }}
