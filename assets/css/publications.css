@@ -7,9 +7,10 @@
 }
 
 .publications ol.bibliography {
-  list-style: none;
+  list-style: decimal;
+  list-style-position: outside;
   margin: 0;
-  padding: 0;
+  padding-left: 1.75em;
 }
 
 .publications ol.bibliography li {
@@ -73,9 +74,15 @@
 }
 
 .publication-note {
-  margin-left: 3px;
+  margin-top: 2px;
+  font-size: inherit;
+  line-height: 1.4;
+}
+
+.publication-note,
+.publication-note strong,
+.publication-note i {
   color: #e74d3c;
-  font-size: 12px;
 }
 
 .publication-legend {
@@ -99,6 +106,10 @@
 }
 
 @media print, screen and (max-width: 480px) {
+  .publications ol.bibliography {
+    padding-left: 1.5em;
+  }
+
   .publications ol.bibliography li {
     padding: 10px 0 12px;
   }

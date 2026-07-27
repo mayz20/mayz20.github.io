@@ -10,6 +10,9 @@
   <div class="title"><a href="{{ link.pdf }}" target="_blank" rel="noopener">{{ link.title }}</a></div>
   <div class="author">{{ link.authors }}</div>
   <div class="periodical"><em>{{ link.conference }}</em></div>
+  {% if link.notes %}
+  <div class="publication-note"><strong><i>{{ link.notes }}</i></strong></div>
+  {% endif %}
   <div class="links">
     {% if link.pdf %}
     <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">PDF</a>
@@ -22,9 +25,6 @@
     {% endif %}
     {% if link.bibtex %}
     <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener">BibTeX</a>
-    {% endif %}
-    {% if link.notes %}
-    <strong><i class="publication-note">{{ link.notes }}</i></strong>
     {% endif %}
     {% if link.others %}
     {{ link.others }}
