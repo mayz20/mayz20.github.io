@@ -2,11 +2,11 @@
 layout: homepage
 ---
 
-## About Me
+## About Me {#about}
 
-I am currently a second-year Ph.D. student in [School of Software](https://www.thss.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Mingsheng Long](http://ise.thss.tsinghua.edu.cn/~mlong/). 
+I am a Ph.D. student in the [School of Software](https://www.thss.tsinghua.edu.cn) at [Tsinghua University](https://www.tsinghua.edu.cn/en/), advised by Prof. [Mingsheng Long](https://ise.thss.tsinghua.edu.cn/~mlong/).
 
-Currently, my research interests lie in physical world understanding and diffusion models.
+My research focuses on **Physical AI** and **world models**: building learning systems that understand, simulate, and interact with the physical world.
 
 {% include_relative _includes/publications.md %}
 

@@ -1,42 +1,72 @@
 main:
+  - title: "ProPINN: Demystifying Propagation Failures in Physics-Informed Neural Networks"
+    authors: <strong>Yuezhou Ma</strong>*, Haixu Wu*, Hang Zhou, Huikun Weng, Jianmin Wang, Mingsheng Long#
+    conference_short: TMLR
+    conference: Transactions on Machine Learning Research <strong>(TMLR)</strong>, 2026.
+    year: 2026
+    pdf: https://arxiv.org/pdf/2502.00803
+    code: https://github.com/thuml/ProPINN
+
+  - title: "Brep2Shape: Boundary and Shape Representation Alignment via Self-Supervised Transformers"
+    authors: Yuanxu Sun*, <strong>Yuezhou Ma</strong>*, Haixu Wu#, Guanyang Zeng, Muye Chen, Jianmin Wang, Mingsheng Long#
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    year: 2026
+    pdf: https://arxiv.org/pdf/2602.07429
+    code: https://github.com/thuml/Brep2Shape
+
+  - title: "Transolver-3: Scaling Up Transformer Solvers to Industrial-Scale Geometries"
+    authors: Hang Zhou, Haixu Wu, Haonan Shangguan, <strong>Yuezhou Ma</strong>, Huikun Weng, Jianmin Wang, Mingsheng Long#
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    year: 2026
+    pdf: https://arxiv.org/pdf/2602.04940
+    code: https://github.com/thuml/Transolver-3
+
   - title: "PhySense: Sensor Placement Optimization for Accurate Physics Sensing"
     authors: <strong>Yuezhou Ma</strong>, Haixu Wu, Hang Zhou, Huikun Weng, Jianmin Wang, Mingsheng Long#
     conference_short: NeurIPS
-    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025, <strong>Oral Paper (top 0.3%)</strong>.
-    pdf: https://arxiv.org/abs/2505.18190
-    image: ./assets/img/physense.png
+    conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    notes: Oral Paper (Top 0.3%)
+    year: 2025
+    pdf: https://arxiv.org/pdf/2505.18190
+    code: https://github.com/thuml/PhySense
+
+  - title: "Unisolver: PDE-Conditional Transformers Are Universal PDE Solvers"
+    authors: Hang Zhou*, <strong>Yuezhou Ma</strong>*, Haixu Wu#, Haowen Wang, Mingsheng Long#
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    year: 2025
+    pdf: https://arxiv.org/pdf/2405.17527
+    code: https://github.com/thuml/Unisolver
+
+  - title: "Exploring Accuracy Law for Deep Time Series Forecasters: An Empirical Study"
+    authors: Yuxuan Wang*, Haixu Wu*, <strong>Yuezhou Ma</strong>, Yuchen Fang, Ziyi Zhang, Yong Liu, Shiyu Wang, Zhou Ye, Yang Xiang, Jianmin Wang, Mingsheng Long#
+    conference_short: arXiv
+    conference: arXiv preprint, 2025.
+    year: 2025
+    pdf: https://arxiv.org/pdf/2510.02729
 
   - title: "FlashBias: Fast Computation of Attention with Bias"
     authors: Haixu Wu, Minghao Guo, <strong>Yuezhou Ma</strong>, Yuanxu Sun, Jianmin Wang, Wojciech Matusik, Mingsheng Long#
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2025.
+    year: 2025
     pdf: https://arxiv.org/pdf/2505.12044
-    image: ./assets/img/Flashbias.png
-    
-  - title: "ProPINN: Demystifying Propagation Failures in Physics-Informed Neural Networks"
-    authors: Haixu Wu, <strong>Yuezhou Ma</strong>, Hang Zhou, Huikun Weng, Jianmin Wang, Mingsheng Long#
-    conference_short: Arxiv
-    conference: Arxiv, 2025.
-    pdf: https://arxiv.org/pdf/2502.00803
-    image: ./assets/img/propinn.png
-    
-  - title: "Unisolver: PDE-Conditional Transformers Are Universal PDE Solvers"
-    authors: Hang Zhou*, <strong>Yuezhou Ma</strong>*, Haixu Wu#, Haowen Wang, Mingsheng Long#
-    conference_short: ICML
-    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
-    pdf: https://arxiv.org/abs/2405.17527
-    image: ./assets/img/unisolver.png
+    code: https://github.com/thuml/FlashBias
     
   - title: "RoPINN: Region Optimized Physics-Informed Neural Networks"
     authors: Haixu Wu, Huakun Luo, <strong>Yuezhou Ma</strong>, Jianmin Wang, Mingsheng Long#
     conference_short: NeurIPS
     conference: Conference on Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
-    pdf: https://arxiv.org/abs/2405.14369
-    image: ./assets/img/ropinn.png
+    year: 2024
+    pdf: https://arxiv.org/pdf/2405.14369
+    code: https://github.com/thuml/RoPINN
 
   - title: "HelmFluid: Learning Helmholtz Dynamics for Interpretable Fluid Prediction"
     authors: Lanxiang Xing*, Haixu Wu*, <strong>Yuezhou Ma</strong>, Jianmin Wang, Mingsheng Long#
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
+    year: 2024
     pdf: https://arxiv.org/pdf/2310.10565
-    image: ./assets/img/Helmfluid.png
+    code: https://github.com/thuml/HelmFluid
